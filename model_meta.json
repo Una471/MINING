@@ -1,0 +1,29 @@
+{
+  "model": "GradientBoosting",
+  "auc": 0.9995,
+  "sensitivity": 0.963,
+  "features": [
+    "age_years",
+    "hours_today",
+    "cumulative_hours",
+    "days_since_maintenance",
+    "engine_temp_c",
+    "vibration",
+    "oil_pressure_psi",
+    "oil_contamination_ppm",
+    "battery_voltage",
+    "idle_hours",
+    "maintenance_due",
+    "type_enc",
+    "site_enc",
+    "day_of_week",
+    "month",
+    "is_night",
+    "temp_over",
+    "vibe_over",
+    "oil_deficit",
+    "contam_flag",
+    "usage_ratio"
+  ],
+  "trained": "2026-02-14"
+}

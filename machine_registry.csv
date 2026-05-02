@@ -1,0 +1,81 @@
+machine_id,machine_type,age_years,site,fuel_rate,max_hours,base_vibe,failure_risk
+KMS-001,Excavator,13,Shaft A,35,5000,2.1,0.12400000000000001
+KMS-002,Excavator,10,Shaft B,35,5000,2.1,0.1
+KMS-003,Excavator,11,Shaft B,35,5000,2.1,0.108
+KMS-004,Excavator,13,Waste Dump,35,5000,2.1,0.12400000000000001
+KMS-005,Excavator,13,Waste Dump,35,5000,2.1,0.12400000000000001
+KMS-006,Excavator,8,Shaft A,35,5000,2.1,0.084
+KMS-007,Excavator,14,Shaft A,35,5000,2.1,0.132
+KMS-008,Excavator,11,Shaft B,35,5000,2.1,0.108
+KMS-009,Excavator,6,Waste Dump,35,5000,2.1,0.068
+KMS-010,Excavator,14,Waste Dump,35,5000,2.1,0.132
+KMS-011,Excavator,11,Waste Dump,35,5000,2.1,0.108
+KMS-012,Excavator,8,Shaft B,35,5000,2.1,0.084
+KMS-013,Haul Truck,7,Waste Dump,55,8000,1.8,0.076
+KMS-014,Haul Truck,10,Shaft A,55,8000,1.8,0.1
+KMS-015,Haul Truck,12,Processing Plant,55,8000,1.8,0.116
+KMS-016,Haul Truck,9,Open Pit,55,8000,1.8,0.09200000000000001
+KMS-017,Haul Truck,12,Shaft B,55,8000,1.8,0.116
+KMS-018,Haul Truck,9,Shaft A,55,8000,1.8,0.09200000000000001
+KMS-019,Haul Truck,13,Processing Plant,55,8000,1.8,0.12400000000000001
+KMS-020,Haul Truck,13,Open Pit,55,8000,1.8,0.12400000000000001
+KMS-021,Haul Truck,9,Waste Dump,55,8000,1.8,0.09200000000000001
+KMS-022,Haul Truck,10,Shaft A,55,8000,1.8,0.1
+KMS-023,Haul Truck,7,Waste Dump,55,8000,1.8,0.076
+KMS-024,Haul Truck,13,Processing Plant,55,8000,1.8,0.12400000000000001
+KMS-025,Haul Truck,13,Waste Dump,55,8000,1.8,0.12400000000000001
+KMS-026,Haul Truck,10,Waste Dump,55,8000,1.8,0.1
+KMS-027,Haul Truck,9,Waste Dump,55,8000,1.8,0.09200000000000001
+KMS-028,Haul Truck,11,Shaft A,55,8000,1.8,0.108
+KMS-029,Haul Truck,14,Shaft B,55,8000,1.8,0.132
+KMS-030,Haul Truck,10,Shaft A,55,8000,1.8,0.1
+KMS-031,Haul Truck,11,Shaft A,55,8000,1.8,0.108
+KMS-032,Haul Truck,8,Open Pit,55,8000,1.8,0.084
+KMS-033,Drill Rig,7,Open Pit,28,4000,3.5,0.076
+KMS-034,Drill Rig,12,Open Pit,28,4000,3.5,0.116
+KMS-035,Drill Rig,9,Shaft B,28,4000,3.5,0.09200000000000001
+KMS-036,Drill Rig,10,Shaft A,28,4000,3.5,0.1
+KMS-037,Drill Rig,5,Shaft B,28,4000,3.5,0.06
+KMS-038,Drill Rig,6,Shaft B,28,4000,3.5,0.068
+KMS-039,Drill Rig,12,Processing Plant,28,4000,3.5,0.116
+KMS-040,Drill Rig,8,Open Pit,28,4000,3.5,0.084
+KMS-041,Loader,6,Shaft B,30,6000,2.0,0.068
+KMS-042,Loader,9,Shaft A,30,6000,2.0,0.09200000000000001
+KMS-043,Loader,11,Shaft A,30,6000,2.0,0.108
+KMS-044,Loader,9,Processing Plant,30,6000,2.0,0.09200000000000001
+KMS-045,Loader,10,Shaft A,30,6000,2.0,0.1
+KMS-046,Loader,11,Waste Dump,30,6000,2.0,0.108
+KMS-047,Loader,9,Shaft B,30,6000,2.0,0.09200000000000001
+KMS-048,Loader,7,Processing Plant,30,6000,2.0,0.076
+KMS-049,Loader,7,Shaft B,30,6000,2.0,0.076
+KMS-050,Loader,10,Shaft B,30,6000,2.0,0.1
+KMS-051,Crusher,11,Waste Dump,45,7000,4.2,0.108
+KMS-052,Crusher,6,Open Pit,45,7000,4.2,0.068
+KMS-053,Crusher,5,Processing Plant,45,7000,4.2,0.06
+KMS-054,Crusher,5,Processing Plant,45,7000,4.2,0.06
+KMS-055,Dozer,9,Shaft B,32,5500,2.3,0.09200000000000001
+KMS-056,Dozer,12,Waste Dump,32,5500,2.3,0.116
+KMS-057,Dozer,7,Shaft A,32,5500,2.3,0.076
+KMS-058,Dozer,14,Shaft A,32,5500,2.3,0.132
+KMS-059,Dozer,12,Shaft B,32,5500,2.3,0.116
+KMS-060,Dozer,8,Waste Dump,32,5500,2.3,0.084
+KMS-061,Dozer,13,Processing Plant,32,5500,2.3,0.12400000000000001
+KMS-062,Dozer,8,Waste Dump,32,5500,2.3,0.084
+KMS-063,Grader,7,Waste Dump,22,5000,1.6,0.076
+KMS-064,Grader,10,Waste Dump,22,5000,1.6,0.1
+KMS-065,Grader,14,Shaft A,22,5000,1.6,0.132
+KMS-066,Grader,6,Open Pit,22,5000,1.6,0.068
+KMS-067,Grader,9,Shaft A,22,5000,1.6,0.09200000000000001
+KMS-068,Grader,10,Processing Plant,22,5000,1.6,0.1
+KMS-069,Water Truck,12,Processing Plant,25,6000,1.5,0.116
+KMS-070,Water Truck,14,Open Pit,25,6000,1.5,0.132
+KMS-071,Water Truck,6,Shaft B,25,6000,1.5,0.068
+KMS-072,Water Truck,6,Shaft A,25,6000,1.5,0.068
+KMS-073,Water Truck,10,Waste Dump,25,6000,1.5,0.1
+KMS-074,Water Truck,5,Shaft B,25,6000,1.5,0.06
+KMS-075,Compressor,12,Open Pit,18,4500,3.8,0.116
+KMS-076,Compressor,12,Waste Dump,18,4500,3.8,0.116
+KMS-077,Compressor,6,Shaft A,18,4500,3.8,0.068
+KMS-078,Compressor,5,Open Pit,18,4500,3.8,0.06
+KMS-079,Conveyor Belt,7,Shaft A,8,9000,2.9,0.076
+KMS-080,Conveyor Belt,13,Open Pit,8,9000,2.9,0.12400000000000001
